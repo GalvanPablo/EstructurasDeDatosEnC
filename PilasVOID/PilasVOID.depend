@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1722191904 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\pilasvoid\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1722191899 c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\pilasvoid\nodo.h
+
+1722202465 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\pilasvoid\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1722202385 c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\pilasvoid\pila.h
+	"nodo.h"
+
+1722202547 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\pilasvoid\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+

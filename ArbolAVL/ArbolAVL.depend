@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1722190153 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\arbolavl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolAVL.h"
+
+1722191613 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\arbolavl\arbolavl.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolAVL.h"
+
+1722191536 c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\arbolavl\arbolavl.h
+

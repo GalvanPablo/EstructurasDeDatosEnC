@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1722112932 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\fechatda\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1722112774 c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\fechatda\fecha.h
+
+1722112861 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\fechatda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+

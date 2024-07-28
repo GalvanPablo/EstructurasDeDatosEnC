@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1722115192 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\arbolbinario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolBinario.h"
+
+1722115998 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\arbolbinario\arbolbinario.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolBinario.h"
+
+1722115984 c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\arbolbinario\arbolbinario.h
+

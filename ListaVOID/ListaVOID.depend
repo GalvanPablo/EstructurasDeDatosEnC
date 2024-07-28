@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1722197437 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\listavoid\main.c
+	<stdio.h>
+	<stdlib.h>
+	"curso.h"
+	"persona.h"
+	"lista.h"
+
+1722191904 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\listavoid\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1722191899 c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\listavoid\nodo.h
+
+1722196806 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\listavoid\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1722196785 c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\listavoid\lista.h
+	"nodo.h"
+
+1722197499 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\listavoid\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1722196495 c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\listavoid\persona.h
+
+1722197302 c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\listavoid\curso.h
+	"lista.h"
+	"persona.h"
+
+1722197329 source:c:\users\galva\onedrive\escritorio\ayed repositorio de codigo\listavoid\curso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"curso.h"
+
