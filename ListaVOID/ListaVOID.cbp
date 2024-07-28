@@ -31,9 +31,25 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="curso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="curso.h" />
+		<Unit filename="lista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lista.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="nodo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="nodo.h" />
+		<Unit filename="persona.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="persona.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="persona.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="616" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="750" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="persona.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="73" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="lista.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6495" topLine="20" />
+		</Cursor>
+		<Folding>
+			<Collapse line="35" />
+			<Collapse line="44" />
+			<Collapse line="54" />
+			<Collapse line="63" />
+			<Collapse line="75" />
+			<Collapse line="79" />
+			<Collapse line="97" />
+			<Collapse line="109" />
+			<Collapse line="135" />
+			<Collapse line="138" />
+			<Collapse line="155" />
+			<Collapse line="163" />
+			<Collapse line="171" />
+			<Collapse line="193" />
+			<Collapse line="205" />
+			<Collapse line="226" />
+			<Collapse line="241" />
+			<Collapse line="251" />
+			<Collapse line="273" />
+		</Folding>
+	</File>
+	<File name="lista.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1485" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="curso.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1806" topLine="21" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
